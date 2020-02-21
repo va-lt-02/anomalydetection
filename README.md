@@ -8,6 +8,6 @@ The goals of this project are:
 
 ## SSH Brute Force
 
-We focus on SSH BRUTE FORCE network attack to start. 
+We focus to start on SSH BRUTE FORCE network attack.
 
 
